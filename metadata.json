@@ -1,0 +1,8 @@
+{
+  "name": "Yusra Abdi - Portfolio",
+  "description": "A high-end, responsive portfolio for a Full-Stack Developer and Web Designer, featuring AI-powered project insights and interactive visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
